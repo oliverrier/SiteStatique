@@ -16,7 +16,7 @@ program.py -i MarkdownFiles -o HtmlFiles
 On appelle le programme avec `program.py`.
 Voici les arguments que l'on peut passer dans notre commande:
 
-Arguments versicon courte | Argument version longue | Explications
+Argument version courte | Argument version longue | Explications
 ------------ | ------------- |-----------
 -h | --help | Affiche tous les arguments possibles et vous explique comment les utiliser
 -i | --input-directory | Dossier contenant les fichiers Markdown
