@@ -7,6 +7,12 @@ Ce projet à pour but de convertir un dossier de fichiers écrits en markdown en
 ## Fonctionnement du programme
 
 Le programme utilise le package ![markdown2](https://github.com/trentm/python-markdown2) du Python Package Index.
+Voici comment l'installer:
+
+```bash
+pip install -r requirement.txt
+```
+
 Il fonctionne en ligne de commande, voici un exemple:
 
 ```bash
